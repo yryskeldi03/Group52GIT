@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     // мы тут типа построили архитектуру
+    // feature two
     // feature one
 }
