@@ -11,4 +11,5 @@ class MainActivity : AppCompatActivity() {
     }
     // мы тут типа построили архитектуру
     // feature two
+    // feature one
 }
